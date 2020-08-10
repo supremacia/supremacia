@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=supremacia&show_icons=true&theme=dark" alt="Supremacia status"/> 
+
+⚡ Fun fact: currently in Earth orbit !!
+
 <!--
 **supremacia/supremacia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
